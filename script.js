@@ -43,7 +43,7 @@ WARNING!!! WARNING!!!
 	// using the 'speak' method or either helloSpeaker's or byeSpeaker's
 	// 'speak' method.
 	// See Lecture 50, part 1
-	console.log(names.length)
+
 	for (i=0; i < names.length; i++) {
 		
 		
